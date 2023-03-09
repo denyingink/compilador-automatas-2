@@ -1,0 +1,6 @@
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\Validadores\bin\Debug\Validadores.dll
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\Validadores\bin\Debug\Validadores.pdb
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\Validadores\obj\Debug\Validadores.csproj.AssemblyReference.cache
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\Validadores\obj\Debug\Validadores.csproj.CoreCompileInputs.cache
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\Validadores\obj\Debug\Validadores.dll
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\Validadores\obj\Debug\Validadores.pdb

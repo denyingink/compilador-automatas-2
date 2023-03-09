@@ -1,0 +1,6 @@
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\TablaDeSimbolos\bin\Debug\TablaDeSimbolos.dll
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\TablaDeSimbolos\bin\Debug\TablaDeSimbolos.pdb
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\TablaDeSimbolos\obj\Debug\TablaDeSimbolos.csproj.AssemblyReference.cache
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\TablaDeSimbolos\obj\Debug\TablaDeSimbolos.csproj.CoreCompileInputs.cache
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\TablaDeSimbolos\obj\Debug\TablaDeSimbolos.dll
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\TablaDeSimbolos\obj\Debug\TablaDeSimbolos.pdb

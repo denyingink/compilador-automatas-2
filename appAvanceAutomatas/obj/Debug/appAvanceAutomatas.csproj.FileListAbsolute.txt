@@ -1,0 +1,16 @@
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\appAvanceAutomatas\bin\Debug\appAvanceAutomatas.exe.config
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\appAvanceAutomatas\bin\Debug\appAvanceAutomatas.exe
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\appAvanceAutomatas\bin\Debug\appAvanceAutomatas.pdb
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\appAvanceAutomatas\bin\Debug\Validadores.dll
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\appAvanceAutomatas\bin\Debug\Validadores.pdb
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\appAvanceAutomatas\obj\Debug\appAvanceAutomatas.csproj.AssemblyReference.cache
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\appAvanceAutomatas\obj\Debug\appAvanceAutomatas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\appAvanceAutomatas\obj\Debug\appAvanceAutomatas.Form1.resources
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\appAvanceAutomatas\obj\Debug\appAvanceAutomatas.Properties.Resources.resources
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\appAvanceAutomatas\obj\Debug\appAvanceAutomatas.csproj.GenerateResource.cache
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\appAvanceAutomatas\obj\Debug\appAvanceAutomatas.csproj.CoreCompileInputs.cache
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\appAvanceAutomatas\obj\Debug\appAvanceAutomatas.csproj.CopyComplete
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\appAvanceAutomatas\obj\Debug\appAvanceAutomatas.exe
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\appAvanceAutomatas\obj\Debug\appAvanceAutomatas.pdb
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\appAvanceAutomatas\bin\Debug\TablaDeSimbolos.dll
+C:\Users\Kirit07\Documents\Skul\appAvanceAutomatas\appAvanceAutomatas\bin\Debug\TablaDeSimbolos.pdb
